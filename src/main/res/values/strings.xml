@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Interrogator</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_question">Interrogation</string>
+    <string name="title_activity_test">Test</string>
+    <string name="title_activity_results">resultsActivity</string>
+    <string name="title_activity_main_questionare">mainQuestionare</string>
+</resources>

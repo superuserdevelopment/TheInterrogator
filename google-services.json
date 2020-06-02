@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "71281594498",
+    "firebase_url": "https://interrogator.firebaseio.com",
+    "project_id": "interrogator",
+    "storage_bucket": "interrogator.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71281594498:android:4c6e3d4c8a426ba128249b",
+        "android_client_info": {
+          "package_name": "com.wetcoders.interrogator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "71281594498-c66fb9977736242ec5ls1isn8onr0kcu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wetcoders.interrogator",
+            "certificate_hash": "140f6a5bd83065f52f31b0fdab0e18621f22d377"
+          }
+        },
+        {
+          "client_id": "71281594498-6tj1phstb8tum3jpq2aese134anfs6ro.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9w9PSDlLrBlHmpx2vMmBEFSpWUE6G5ro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "71281594498-6tj1phstb8tum3jpq2aese134anfs6ro.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

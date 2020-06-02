@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/end"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".mainQuestionare"
+    tools:showIn="@layout/activity_main_questionare">
+
+    <Button
+        android:id="@+id/op4Button"
+        android:layout_width="345dp"
+        android:layout_height="45dp"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="380dp"
+        android:background="@android:color/black"
+        android:fontFamily="serif-monospace"
+        android:onClick="onHelloClickOp4"
+        android:text="Button"
+        android:textColor="@android:color/white"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/op3Button"
+        android:layout_width="345dp"
+        android:layout_height="45dp"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="310dp"
+        android:background="@android:color/black"
+        android:fontFamily="serif-monospace"
+        android:onClick="onHelloClickOp3"
+        android:text="Button"
+        android:textColor="@android:color/white"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/op2Button"
+        android:layout_width="345dp"
+        android:layout_height="45dp"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="240dp"
+        android:background="@android:color/black"
+        android:fontFamily="serif-monospace"
+        android:onClick="onHelloClickOp2"
+        android:text="Button"
+        android:textColor="@android:color/white"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/op1Button"
+        android:layout_width="345dp"
+        android:layout_height="45dp"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="170dp"
+        android:background="@android:color/black"
+        android:fontFamily="serif-monospace"
+        android:onClick="onHelloClickOp1"
+        android:text="Button"
+        android:textColor="@android:color/white"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/questionBox3"
+        android:layout_width="350dp"
+        android:layout_height="115dp"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="40dp"
+        android:layout_marginEnd="30dp"
+        android:ems="10"
+        android:enabled="false"
+        android:fontFamily="serif-monospace"
+        android:gravity="start|top"
+        android:inputType="textMultiLine"
+        android:textColor="@android:color/white"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

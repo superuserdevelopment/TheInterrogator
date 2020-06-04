@@ -136,3 +136,18 @@ Lastly all the insights gathered from these phases are
 presented to the authority which can help them in solving
 the case further.
 
+## Screenshots
+### Login Screen
+<img src="Screenshots/Screenshot_20200229-002742.jpg" width=25% height = 25% alt = 'Screenshot 3'>
+
+### Witness Test Questions
+<img src="Screenshots/Screenshot_20200229-001719.jpg" width=25% height = 25% alt ='Screenshot 1'>
+<img src="Screenshots/Screenshot_20200229-001725.jpg" width=25% height = 25% alt = 'Screenshot 2'>
+
+<img src="Screenshots/Screenshot_20200229-010425.jpg" width=25% height = 25% alt = 'Screenshot 4'>
+<img src="Screenshots/Screenshot_20200229-010839.jpg" width=25% height = 25% alt = 'Screenshot 5'>
+<img src="Screenshots/Screenshot_20200229-010856.jpg" width=25% height = 25% alt = 'Screenshot 6'>
+<img src="Screenshots/Screenshot_20200229-010907.jpg" width=25% height = 25% alt = 'Screenshot 7'>
+
+### Admin Page
+<img src="Screenshots/Screenshot_20200229-010925.jpg" width=25% height = 25% alt = 'Screenshot 8'>
